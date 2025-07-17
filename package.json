@@ -1,9 +1,10 @@
 {
-  "name": "code-oss-dev",
-  "version": "1.103.0",
-  "distro": "35d920d21606aec0dc59b589a5581f6dbc2e331b",
+  "name": "ascode",
+  "displayName": "ASCode",
+  "version": "0.1.0",
+  "description": "ASCode - A customized version of VS Code with AI integrations",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "Your Name"
   },
   "license": "MIT",
   "main": "./out/main.js",
